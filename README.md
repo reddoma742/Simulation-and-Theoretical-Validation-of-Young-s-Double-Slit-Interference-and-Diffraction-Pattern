@@ -1,5 +1,5 @@
 
-![Simulation Result](images/result2.jpeg)
+![Simulation Result] images/result2.png
 
 
 # Simulation-and-Theoretical-Validation-of-Young-s-Double-Slit-Interference-and-Diffraction-Pattern
