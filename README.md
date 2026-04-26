@@ -1,3 +1,7 @@
+
+![Simulation Result](images/result2.jpeg)
+
+
 # Simulation-and-Theoretical-Validation-of-Young-s-Double-Slit-Interference-and-Diffraction-Pattern
 "Modeling Light Wave Interference: A Comprehensive Computational Approach
 
